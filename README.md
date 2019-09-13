@@ -1,27 +1,43 @@
-# WalletApp
+# QuickSnap 
+## The Bridge between Customers and Service providers
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
+QuickSnap is a marketplace for local services. It helps customers hire trusted professionals for all their service needs. It helps service providers grow their business and choose the customer requests that interest them.
 
-## Development server
+# What can I do with QuickSnap?
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## As a Customer
+- You can find service providers for 9 types of services
+- You can find service providers based on their location ( 7 cities )
+- You can send a service request to a service provider describing the type of service needed, budget and deadline.
+- You can view the history of service requests you have sent
+- You can track the status of all your service requests
+- You can Pay for a service on completion
+- You can download a PDF copy of the billing statement
+- You can contact QuickSnap through email for complaints or appreciations
+- You can view and update your profile anytime
 
-## Code scaffolding
+## As a Service Provider
+- You can register as a service provider for a specific type of service
+- You can Accept/ Decline a service request from your dashboard
+- You can mark a Service Request as completed
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## How to install QuickSnap ?
+1. Download the contents of the repository https://github.com/deepakgopalanneu/QuickSnap
+2. In your terminal, Navigate to the folder `NewAPI`
+3. Run command - `npm run start`
+4. Open a new terminal, Navigate to the folder `QuickSnap`
+5. Run command - `ng serve -o`
+6. You are all set! Login/Register as a Customer/Service Provider!
 
-## Build
+## Technologies used 
+- Angular 7
+- JavaScript
+- TypeScript
+- NodeJS
+- MongoDB
+- HTML5
+- SASS
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+# Authors
+## Deepak Gopalan       - NUID: 001388882
+## Ruchira Reddy Konda  - NUID: 001430973
