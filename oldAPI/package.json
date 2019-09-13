@@ -1,0 +1,27 @@
+{
+  "name": "assignment-8-deepakgopalanneu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-spring-2019/assignment-8-deepakgopalanneu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-spring-2019/assignment-8-deepakgopalanneu/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-spring-2019/assignment-8-deepakgopalanneu#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongod": "^2.0.0",
+    "mongoose": "^5.4.20",
+    "nodemon": "^1.18.10"
+  }
+}
