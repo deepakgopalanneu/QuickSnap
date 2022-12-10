@@ -19,7 +19,7 @@
   "homepage": "https://github.com/neu-mis-info6150-spring-2019/assignment-8-deepakgopalanneu#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "mongod": "^2.0.0",
     "mongoose": "^5.4.20",
     "nodemon": "^1.18.10"
